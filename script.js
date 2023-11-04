@@ -77,7 +77,7 @@ const quizData = [
     b: "None",
     c: 4,
     d: 6,
-    correct: "b",
+    correct: "c",
   },
 ];
 
