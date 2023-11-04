@@ -22,7 +22,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
   width: 600px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .quiz-header {
@@ -50,7 +50,7 @@ ul li label {
 }
 
 button {
-  background-color: #8e44ad;
+  background-color: #c19d9d;
   border: none;
   color: #fff;
   display: block;
@@ -62,10 +62,10 @@ button {
 }
 
 button:hover {
-  background-color: #732d91;
+  background-color: #e8a7a5;
 }
 
 button:focus {
   outline: none;
-  background-color: #5e3370;
+  background-color: #c68683;
 }
