@@ -42,7 +42,7 @@ const quizData = [
   {
     question: "What is the origin of her traditional name?",
     a: "St Ann's, Jamaica",
-    b: "Machester, Jamaica",
+    b: "Manchester, Jamaica",
     c: "Ogoni, Nigeria",
     d: "Lagos, Nigeria",
     correct: "c",
